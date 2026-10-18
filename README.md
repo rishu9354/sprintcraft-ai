@@ -179,4 +179,4 @@ Released under the MIT License.
 
 ---
 
-Built by **Rishabh** · [CodeCraft By RS](https://github.com/)
+Built by **Rishabh and their** ·
