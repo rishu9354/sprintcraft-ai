@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: sprintcraft-backend
+sprintcraft:
+  ollama:
+    base-url: ${OLLAMA_URL:http://localhost:11444}
+    model: ${OLLAMA_MODEL:llama3.1}
+  allowed-origin: ${FRONTEND_ORIGIN:http://localhost:5173}
+server:
+  port: 8080
