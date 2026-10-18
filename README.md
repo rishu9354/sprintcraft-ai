@@ -179,4 +179,4 @@ Released under the MIT License.
 
 ---
 
-Built by **Rishabh and their** ·
+Built by **Rishabh and their team** ·
